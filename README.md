@@ -9,9 +9,9 @@ Dashboard elements:
 
 ## Screenshots
 
-<img src="assets/dashboard1.png" width="600"/>
+<img width="960" alt="dashboard1" src="https://github.com/Aaron-Muuo/simpleDashboardUI/assets/38472455/d53a85f9-89c1-4e13-bd4b-dc66881e431a">
 
-<img src="assets/dashboard2.png" width="600"/>
+<img width="960" alt="dashboard2" src="https://github.com/Aaron-Muuo/simpleDashboardUI/assets/38472455/b6cf9887-f090-4171-8946-1dc9e41518dd">
 
 ## Libraries
 
