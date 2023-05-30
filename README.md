@@ -7,6 +7,12 @@ Dashboard elements:
 3. Footer
 4. Dynamic section for content
 
+## Screenshots
+
+<img src="assets/dashboard1.png" width="600"/>
+
+<img src="assets/dashboard2.png" width="600"/>
+
 ## Libraries
 
 1. Bootstrap 4
